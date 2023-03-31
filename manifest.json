@@ -1,5 +1,5 @@
 {
-  "id": "OtherTestReactApp",
+  "id": "./OtherTestReactApp",
   "short_name": "Other App",
   "name": "other app",
   "icons": [
@@ -19,7 +19,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "./OtherTestReactApp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
